@@ -56,7 +56,6 @@ int main() {
     else {
         printf("\nEl total de volumen del Tipo 2 no es un número primo");
     }
-
 	return 0;
 }
 
