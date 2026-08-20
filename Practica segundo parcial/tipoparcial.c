@@ -12,11 +12,11 @@ int main() {
     do {
         printf("Ingrese N: ");
         scanf("%d", &n);
-    } while(n <= 0 || n <= 5);
+    } while(n <= 0 || n >= 5);
     do {
         printf("Ingrese M: ");
         scanf("%d", &m);
-    } while(m <= 0 || m <= 6);
+    } while(m <= 0 || m >= 6);
     srand(time(NULL));
     cargarMatriz(matriz, n, m);
     printf("\nMATRIZ GENERADA:\n");
