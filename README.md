@@ -30,6 +30,7 @@ Repositorio de ejercicios, prácticas y trabajos realizados durante la materia *
 - `TP4` - Funciones y punteros
 - `TP5` - Vectores
 - `TP6` - Matrices
+- `TP7` - Listas y estructuras
 
 ## Objetivo
 
