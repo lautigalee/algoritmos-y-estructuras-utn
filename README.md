@@ -20,8 +20,6 @@ Repositorio de ejercicios, prácticas y trabajos realizados durante la materia *
 - Estructuras (`struct`)
 - Listas enlazadas
 - Pilas y colas
-- Árboles
-- Grafos
 
 ## Organización del repositorio
 
@@ -31,6 +29,8 @@ Repositorio de ejercicios, prácticas y trabajos realizados durante la materia *
 - `TP5` - Vectores
 - `TP6` - Matrices
 - `TP7` - Listas y estructuras
+- `TP8` - Python
+- `TP9` - Pilas y Colas
 
 ## Objetivo
 
