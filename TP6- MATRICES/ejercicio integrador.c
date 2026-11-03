@@ -61,6 +61,7 @@ void buscarMayorMatriz(int matriz[10][10],int filas,int columnas,int *mayor,int 
 		}
 	}
 }
+printf8
 void sumarFilas(int matriz[10][10], int filas, int columnas) {
 	int i, j, suma;
 for(i = 0; i < filas; i++) {

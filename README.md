@@ -25,6 +25,7 @@ Repositorio de ejercicios, prácticas y trabajos realizados durante la materia *
 
 - `Práctica primer parcial` - Ejercicios de preparación para el primer parcial
 - `Práctica segundo parcial` - Ejercicios de preparación para el segundo parcial
+- `Práctica tercer parcial` - Ejercicios de preparación para el tercer parcial
 - `TP4` - Funciones y punteros
 - `TP5` - Vectores
 - `TP6` - Matrices
